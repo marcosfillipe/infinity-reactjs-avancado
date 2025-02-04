@@ -1,0 +1,61 @@
+export const produtos = [
+	{
+		id: 1,
+		nome: "Camiseta Estampada",
+		descricao: "Camiseta 100% algodão com estampa exclusiva",
+		preco: 59.9,
+		quantidadeEstoque: 50,
+		categoria: "Roupas",
+		imagemUrl:
+			"https://camisariafascynios.vtexassets.com/arquivos/ids/603761-800-1200?v=638410327743100000&width=800&height=1200&aspect=true",
+		emOferta: true,
+		desconto: 10,
+	},
+	{
+		id: 2,
+		nome: "Tênis Esportivo",
+		descricao: "Tênis de corrida com tecnologia de amortecimento",
+		preco: 249.9,
+		quantidadeEstoque: 30,
+		categoria: "Calçados",
+		imagemUrl:
+			"https://static.dafiti.com.br/p/Evoltenn-T%C3%AAnis-Esportivo-Feminino-Boost-Colmeia-Leve-Academia-Moderno-Verde-8915-95367201-1-zoom.jpg",
+		emOferta: false,
+		desconto: 0,
+	},
+	{
+		id: 3,
+		nome: "Relógio de Pulso",
+		descricao: "Relógio de pulso com pulseira de couro e display digital",
+		preco: 199.9,
+		quantidadeEstoque: 15,
+		categoria: "Acessórios",
+		imagemUrl:
+			"https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/helderjo/catalog/relogios/2165rl-13495h-20785.jpg",
+		emOferta: true,
+		desconto: 15,
+	},
+	{
+		id: 4,
+		nome: "Smartphone XYZ",
+		descricao: "Smartphone de última geração com 128GB de armazenamento",
+		preco: 1799.9,
+		quantidadeEstoque: 20,
+		categoria: "Eletrônicos",
+		imagemUrl: "https://imgs.casasbahia.com.br/55066350/1g.jpg",
+		emOferta: false,
+		desconto: 0,
+	},
+	{
+		id: 5,
+		nome: "Fone de Ouvido Bluetooth",
+		descricao: "Fone de ouvido sem fio com cancelamento de ruído",
+		preco: 129.9,
+		quantidadeEstoque: 40,
+		categoria: "Eletrônicos",
+		imagemUrl:
+			"https://m.media-amazon.com/images/I/51yHf2TFfUL._AC_UF1000,1000_QL80_.jpg",
+		emOferta: true,
+		desconto: 20,
+	},
+];

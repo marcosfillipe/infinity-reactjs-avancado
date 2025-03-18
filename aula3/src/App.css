@@ -1,0 +1,46 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.card {
+  background-color: darkseagreen;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  border-radius: 10px;
+}
+
+.cabecalho {
+  background-color: rgb(28, 194, 138);
+  display: flex;
+  justify-content: center;
+}
+.cabecalho ul {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+}
+.cabecalho a {
+  color: white;
+  font-size: 32px;
+  text-decoration: none;
+}
+
+.principal {
+  min-height: 100vh;
+}
+.rodape {
+  margin-top: 20px;
+  background-color: rgb(28, 194, 138);
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  font-size: 32px;
+  color: white;
+}

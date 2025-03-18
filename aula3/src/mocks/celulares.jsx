@@ -1,0 +1,111 @@
+export const celulares = [
+  {
+    id: 1,
+    nome: "Smartphone Samsung Galaxy S23",
+    categoria: "Celulares",
+    descricao:
+      "Celular com tela de 6,1 polegadas, processador Exynos 2200 e câmera de 50MP.",
+    preco: 3500.0,
+    quantidade_em_estoque: 50,
+    marca: "Samsung",
+    data_adicao: "2025-01-25",
+  },
+  {
+    id: 2,
+    nome: "iPhone 15",
+    categoria: "Celulares",
+    descricao:
+      "iPhone 15 com tela Super Retina XDR, processador A16 Bionic e câmeras avançadas.",
+    preco: 6500.0,
+    quantidade_em_estoque: 12,
+    marca: "Apple",
+    data_adicao: "2025-02-12",
+  },
+  {
+    id: 3,
+    nome: "Xiaomi Redmi Note 12",
+    categoria: "Celulares",
+    descricao:
+      "Smartphone com tela de 6,67 polegadas, processador Snapdragon 4 Gen 1 e câmeras de 48MP.",
+    preco: 1800.0,
+    quantidade_em_estoque: 40,
+    marca: "Xiaomi",
+    data_adicao: "2025-02-08",
+  },
+  {
+    id: 4,
+    nome: "Samsung Galaxy A54",
+    categoria: "Celulares",
+    descricao:
+      "Celular com tela de 6,4 polegadas, processador Exynos 1380 e câmeras de 50MP.",
+    preco: 2500.0,
+    quantidade_em_estoque: 30,
+    marca: "Samsung",
+    data_adicao: "2025-01-18",
+  },
+  {
+    id: 5,
+    nome: "Motorola Edge 40",
+    categoria: "Celulares",
+    descricao:
+      "Celular com tela OLED de 6,55 polegadas e processador Snapdragon 778G.",
+    preco: 3000.0,
+    quantidade_em_estoque: 18,
+    marca: "Motorola",
+    data_adicao: "2025-02-15",
+  },
+  {
+    id: 6,
+    nome: "Nokia G50",
+    categoria: "Celulares",
+    descricao:
+      "Smartphone com tela de 6,82 polegadas, 4GB de RAM e bateria de 5000mAh.",
+    preco: 1300.0,
+    quantidade_em_estoque: 50,
+    marca: "Nokia",
+    data_adicao: "2025-01-30",
+  },
+  {
+    id: 7,
+    nome: "Realme GT 2 Pro",
+    categoria: "Celulares",
+    descricao:
+      "Smartphone com tela AMOLED de 6,7 polegadas, processador Snapdragon 8 Gen 1.",
+    preco: 5500.0,
+    quantidade_em_estoque: 15,
+    marca: "Realme",
+    data_adicao: "2025-02-10",
+  },
+  {
+    id: 8,
+    nome: "Oppo Reno 8 Pro",
+    categoria: "Celulares",
+    descricao:
+      "Celular com tela AMOLED de 6,7 polegadas, câmera principal de 50MP e 12GB de RAM.",
+    preco: 4600.0,
+    quantidade_em_estoque: 20,
+    marca: "Oppo",
+    data_adicao: "2025-02-01",
+  },
+  {
+    id: 9,
+    nome: "OnePlus 11",
+    categoria: "Celulares",
+    descricao:
+      "Smartphone com tela Fluid AMOLED de 6,7 polegadas e processador Snapdragon 8 Gen 2.",
+    preco: 6000.0,
+    quantidade_em_estoque: 10,
+    marca: "OnePlus",
+    data_adicao: "2025-01-20",
+  },
+  {
+    id: 10,
+    nome: "Google Pixel 7 Pro",
+    categoria: "Celulares",
+    descricao: "Celular com tela LTPO OLED de 6,7 polegadas e câmeras de 50MP.",
+    preco: 7000.0,
+    quantidade_em_estoque: 8,
+    marca: "Google",
+    data_adicao: "2025-01-25",
+  },
+];
